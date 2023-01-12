@@ -29,7 +29,9 @@ Number of samples taken into consideration while making this project is more tha
 
 ### Data Files:
 
-1. Data
+1. __Hotel_Reviews.csv__: Raw data
+2. __clean_train_dataframe.csv__: Processed raw data/clean train data
+3. __clean_test_dataframe.csv__: Processed raw data/clean test data
 
 
 ---
